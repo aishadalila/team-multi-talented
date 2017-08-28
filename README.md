@@ -1,12 +1,13 @@
-# Team Multi-talented
+﻿# Team Multi-talented
 Team Multi-talented #W03
 
 ## Team members:
-  * Liam Simpson
-  * Haoxuan Yang
-  * Chung yu pan
-  * Nik Aisha Dalia Binti Shamsul Anuar
-  * Velte Azizah Destiana
+  * Liam Simpson (43939871)
+  * Haoxuan Yang (43967566)
+  * Chung yu pan (43210703)
+  * Nik Aisha Dalia Binti Shamsul Anuar (44257778)
+  * Velte Azizah Destiana (44484051)
+
 ## Proposal 
 ### Introduction
  What is your project and what dilemma does it aim to address
