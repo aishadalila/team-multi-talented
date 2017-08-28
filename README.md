@@ -2,11 +2,14 @@
 Team Multi-talented #W03
 
 ## Team members:
-  * Liam Simpson (43939871)
-  * Haoxuan Yang (43967566)
-  * Chung yu pan (43210703)
-  * Nik Aisha Dalia Binti Shamsul Anuar (44257778)
-  * Velte Azizah Destiana (44484051)
+
+Name | Student ID | Course Code
+-- | -- | -- 
+Liam Simpson | 43939871 | DECO3500
+Haoxuan Yang | 43967566 | DECO3500
+Chung Yu Pan | 43210703 | DECO3500
+Nik Aisha Dalia Binti Shamsul Anuar| 44257778 | DECO3500
+Velta Azizah Destiana | 44484051 | DECO3500
 
 ## Proposal 
 ### Introduction
