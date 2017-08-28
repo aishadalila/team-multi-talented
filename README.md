@@ -24,7 +24,7 @@ that apply to, will inform your concept & approach
  Who is on your team, what are their responsibilities, and how will you work together? List all the
 members and their course code. Identify: 
  * Who will lead the team and manage the project: 
-Nik Aisha Dalila Binti Shamsul Anuar
+  * Nik Aisha Dalila Binti Shamsul Anuar
  * Who is responsible for logistics e.g. equipment, meetings, transport, etc:
 Haoxuan Yang 
  * Who fills key roles, e.g. back end, front end, content, design:
